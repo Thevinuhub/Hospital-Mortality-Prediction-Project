@@ -1,6 +1,7 @@
 # Hospital-Mortality-Prediction-Project
 
 <img width="612" height="340" alt="image" src="https://github.com/user-attachments/assets/aec51fb0-e9b0-449d-b54a-f574bbad9223" />
+
 Tools Used: Excel, MySQL, Tableau
 Business Problem : Healthcare professionals are trying to identify the main causes of in-hospital mortality for admitted patients. By having a clear understanding of the causes early on, healthcare professionals will be in a better position to develop targeted interventions, and implement evidence-based protocols to address the factors that contribute to in-hospital patient deaths.
 
